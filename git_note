@@ -1,3 +1,9 @@
-t push origin :master
+t
+push origin :master
 ####
 $ git push origin --delete master
+
+$ git config --global push.default matching
+# ####
+# $ git config --global push.default simple
+
