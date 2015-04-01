@@ -7,3 +7,10 @@ $ git config --global push.default matching
 # ####
 # $ git config --global push.default simple
 
+git brach branchName created  branchName branch 
+git checkout branchName   change    branchName branch 
+git checkout -b Create and switch, that is, the above two commands
+
+git brach branchName ef71 commit ef71  created branchName  branch
+
+
